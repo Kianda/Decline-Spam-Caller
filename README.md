@@ -52,7 +52,7 @@ Install [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.and
 Check the [official documentation](https://tasker.joaoapps.com/) for more information! _DSC_ is a Tasker project, not a tutorial on how to use Tasker.
 
 ###### TaskerNet (easy way)
-_work-in-progress_
+[_TaskerNet Link_](https://taskernet.com/shares/?user=AS35m8m%2B3NlqE3hjJHjTs0ZoGxQVx9O7awY9kn9bI0ezvr0d4q%2BlW4bQgZf%2B503WdmgmaA%3D%3D&id=Project%3Adecline-spam-call)
 
 ###### XML (manual way)
 Download the XML project file from this repository to your smartphone.
